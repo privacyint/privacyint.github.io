@@ -1,4 +1,0 @@
-privacyint.github.io
-====================
-
-pages
